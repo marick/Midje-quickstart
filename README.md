@@ -12,7 +12,8 @@ Getting Started
 2.  Fork this project using the Fork button near the top of
     this page.
 
-    ![The Fork button](https://github.com/marick/Midje-quickstart/tree/master/images/fork.png)
+    <img
+    src="https://github.com/marick/Midje-quickstart/tree/master/images/fork.png"/>
 
 3. 
 
