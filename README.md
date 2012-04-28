@@ -9,16 +9,17 @@ Getting Started
 
 1.  Download [Leiningen](https://github.com/technomancy/leiningen).
 
-2.  Fork this project using the Fork button near the top of
-    this page.
+2.  Add the `lein midje` command, which you will use to run
+     tests:
 
-    <img
-    src="https://github.com/marick/Midje-quickstart/tree/master/images/fork.png"/>
+     `lein plugin install lein-midje 1.0.9`
 
-    <img
-    src="https://github.com/downloads/marick/Midje-quickstart/fork.png"
-    alt="Picture of the fork button" title="Fork button" align="right"
-     /> 
+2.  Put the tutorial sources on your dirsk. At the command line, type this:
 
-3. 
+     `git clone git://github.com/marick/Midje-quickstart.git`
 
+
+The Tutorials
+----------
+
+1. An explanation of the standard
