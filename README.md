@@ -4,8 +4,6 @@ Midje Quickstart
 Annotated (tutorialized) projects to help you get started
 with [Midje](https://github.com/marick/Midje).
 
-<img src="https://github.com/downloads/technomancy/leiningen/leiningen-banner.png" alt="Leiningen logo" title="The man himself" align="right"
-
 Getting Started
 ------------
 
@@ -17,8 +15,10 @@ Getting Started
     <img
     src="https://github.com/marick/Midje-quickstart/tree/master/images/fork.png"/>
 
-    <img src="https://github.com/downloads/technomancy/leiningen/leiningen-banner.png" alt="Leiningen logo" title="The man himself" align="right"
- />
+    <img
+    src="https://github.com/downloads/marick/Midje-quickstart/fork.png"
+    alt="Picture of the fork button" title="Fork button" align="right"
+     /> 
 
 3. 
 
