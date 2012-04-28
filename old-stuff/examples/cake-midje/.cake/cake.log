@@ -1,0 +1,328 @@
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=30281]>, :connections #<Ref@a6a7d2: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=49934]>, :connections #<Ref@348ab2: #{}>}
+!!!
++++ The following line shows how 'cake midje' checks facts in source files.
++++ The failure is expected.
++++ The following line shows how 'cake midje' checks facts in source files.
++++ The failure is expected.
+
+FAIL at (core.clj:7)
+    Expected: 4
+      Actual: 3
++++ The following shows how 'cake midje' checks facts in test files.
++++ The failure is intentional.
+
+FAIL at (t_core.clj:13)
+    Expected: 4
+      Actual: 3
++++ The following shows how 'cake midje' checks facts in source files.
++++ The failure is intentional.
+
+FAIL at (core.clj:7)
+    Expected: 4
+      Actual: 3
+
++++ The following shows how 'cake midje' checks facts in test files.
++++ The failure is intentional.
+
+FAIL at (t_core.clj:13)
+    Expected: 4
+      Actual: 3
+
++++ The following shows how 'cake midje' checks facts in source files.
++++ The failure is intentional.
+
+FAIL at (core.clj:7)
+    Expected: 4
+      Actual: 3
+
++++ The following shows how 'cake midje' checks facts in test files.
++++ The failure is intentional.
+
+FAIL at (t_core.clj:13)
+    Expected: "I am a test file fact"
+      Actual: 3
+
++++ The following shows how 'cake midje' checks facts in source files.
++++ The failure is intentional.
+
+FAIL at (core.clj:7)
+    Expected: "I am a source-file fact."
+      Actual: 3
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=61086]>, :connections #<Ref@1ec265c: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=53597]>, :connections #<Ref@f1bcde: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=48177]>, :connections #<Ref@1b75be2: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=61239]>, :connections #<Ref@f1bcde: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=52379]>, :connections #<Ref@17b650a: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=60692]>, :connections #<Ref@898b41: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=41338]>, :connections #<Ref@1ec3fed: #{}>}
+Downloading: midje/midje/1.0.0alpha1/midje-1.0.0alpha1.pom from repository clojure at http://build.clojure.org/releases
+Unable to locate resource in repository
+[INFO] Unable to find resource 'midje:midje:pom:1.0.0alpha1' in repository clojure (http://build.clojure.org/releases)
+Downloading: midje/midje/1.0.0alpha1/midje-1.0.0alpha1.pom from repository clojure-snapshots at http://build.clojure.org/snapshots
+Unable to locate resource in repository
+[INFO] Unable to find resource 'midje:midje:pom:1.0.0alpha1' in repository clojure-snapshots (http://build.clojure.org/snapshots)
+Downloading: midje/midje/1.0.0alpha1/midje-1.0.0alpha1.pom from repository clojars at http://clojars.org/repo
+Unable to locate resource in repository
+[INFO] Unable to find resource 'midje:midje:pom:1.0.0alpha1' in repository clojars (http://clojars.org/repo)
+Downloading: midje/midje/1.0.0alpha1/midje-1.0.0alpha1.pom from repository maven at http://repo1.maven.org/maven2
+Unable to locate resource in repository
+[INFO] Unable to find resource 'midje:midje:pom:1.0.0alpha1' in repository maven (http://repo1.maven.org/maven2)
+Downloading: midje/midje/1.0.0alpha1/midje-1.0.0alpha1.pom from repository central at http://repo1.maven.org/maven2
+Unable to locate resource in repository
+[INFO] Unable to find resource 'midje:midje:pom:1.0.0alpha1' in repository central (http://repo1.maven.org/maven2)
+Downloading: midje/midje/1.0.0alpha1/midje-1.0.0alpha1.jar from repository clojure at http://build.clojure.org/releases
+Unable to locate resource in repository
+[INFO] Unable to find resource 'midje:midje:jar:1.0.0alpha1' in repository clojure (http://build.clojure.org/releases)
+Downloading: midje/midje/1.0.0alpha1/midje-1.0.0alpha1.jar from repository clojure-snapshots at http://build.clojure.org/snapshots
+Unable to locate resource in repository
+[INFO] Unable to find resource 'midje:midje:jar:1.0.0alpha1' in repository clojure-snapshots (http://build.clojure.org/snapshots)
+Downloading: midje/midje/1.0.0alpha1/midje-1.0.0alpha1.jar from repository clojars at http://clojars.org/repo
+Unable to locate resource in repository
+[INFO] Unable to find resource 'midje:midje:jar:1.0.0alpha1' in repository clojars (http://clojars.org/repo)
+Downloading: midje/midje/1.0.0alpha1/midje-1.0.0alpha1.jar from repository maven at http://repo1.maven.org/maven2
+Unable to locate resource in repository
+[INFO] Unable to find resource 'midje:midje:jar:1.0.0alpha1' in repository maven (http://repo1.maven.org/maven2)
+Downloading: midje/midje/1.0.0alpha1/midje-1.0.0alpha1.jar from repository central at http://repo1.maven.org/maven2
+Unable to locate resource in repository
+[INFO] Unable to find resource 'midje:midje:jar:1.0.0alpha1' in repository central (http://repo1.maven.org/maven2)
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=63545]>, :connections #<Ref@1af45f4: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=28024]>, :connections #<Ref@150818a: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=30502]>, :connections #<Ref@35adc6: #{}>}
+
++++ The following shows how 'cake midje' checks facts in test files.
++++ The failure is intentional.
+
+FAIL at (t_core.clj:13)
+    Expected: "I am a test file fact"
+      Actual: 3
+Downloading: midje/midje/1.0.0alpha1/midje-1.0.0alpha1.pom from repository clojure at http://build.clojure.org/releases
+Unable to locate resource in repository
+[INFO] Unable to find resource 'midje:midje:pom:1.0.0alpha1' in repository clojure (http://build.clojure.org/releases)
+Downloading: midje/midje/1.0.0alpha1/midje-1.0.0alpha1.pom from repository clojure-snapshots at http://build.clojure.org/snapshots
+Unable to locate resource in repository
+[INFO] Unable to find resource 'midje:midje:pom:1.0.0alpha1' in repository clojure-snapshots (http://build.clojure.org/snapshots)
+Downloading: midje/midje/1.0.0alpha1/midje-1.0.0alpha1.pom from repository clojars at http://clojars.org/repo
+Unable to locate resource in repository
+[INFO] Unable to find resource 'midje:midje:pom:1.0.0alpha1' in repository clojars (http://clojars.org/repo)
+Downloading: midje/midje/1.0.0alpha1/midje-1.0.0alpha1.pom from repository maven at http://repo1.maven.org/maven2
+Unable to locate resource in repository
+[INFO] Unable to find resource 'midje:midje:pom:1.0.0alpha1' in repository maven (http://repo1.maven.org/maven2)
+Downloading: midje/midje/1.0.0alpha1/midje-1.0.0alpha1.pom from repository central at http://repo1.maven.org/maven2
+Unable to locate resource in repository
+[INFO] Unable to find resource 'midje:midje:pom:1.0.0alpha1' in repository central (http://repo1.maven.org/maven2)
+Downloading: midje/midje/1.0.0alpha1/midje-1.0.0alpha1.jar from repository clojure at http://build.clojure.org/releases
+Unable to locate resource in repository
+[INFO] Unable to find resource 'midje:midje:jar:1.0.0alpha1' in repository clojure (http://build.clojure.org/releases)
+Downloading: midje/midje/1.0.0alpha1/midje-1.0.0alpha1.jar from repository clojure-snapshots at http://build.clojure.org/snapshots
+Unable to locate resource in repository
+[INFO] Unable to find resource 'midje:midje:jar:1.0.0alpha1' in repository clojure-snapshots (http://build.clojure.org/snapshots)
+Downloading: midje/midje/1.0.0alpha1/midje-1.0.0alpha1.jar from repository clojars at http://clojars.org/repo
+Unable to locate resource in repository
+[INFO] Unable to find resource 'midje:midje:jar:1.0.0alpha1' in repository clojars (http://clojars.org/repo)
+Downloading: midje/midje/1.0.0alpha1/midje-1.0.0alpha1.jar from repository maven at http://repo1.maven.org/maven2
+Unable to locate resource in repository
+[INFO] Unable to find resource 'midje:midje:jar:1.0.0alpha1' in repository maven (http://repo1.maven.org/maven2)
+Downloading: midje/midje/1.0.0alpha1/midje-1.0.0alpha1.jar from repository central at http://repo1.maven.org/maven2
+Unable to locate resource in repository
+[INFO] Unable to find resource 'midje:midje:jar:1.0.0alpha1' in repository central (http://repo1.maven.org/maven2)
+
++++ The following shows how 'cake midje' checks facts in test files.
++++ The failure is intentional.
+
+FAIL at (t_core.clj:13)
+    Expected: "I am a test file fact"
+      Actual: 3
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=36920]>, :connections #<Ref@d73c3c: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=59072]>, :connections #<Ref@10f7612: #{}>}
+
++++ The following shows how 'cake midje' checks facts in test files.
++++ The failure is intentional.
+
+FAIL at (t_core.clj:13)
+    Expected: "I am a test file fact"
+      Actual: 3
+
++++ The following shows how 'cake midje' checks facts in test files.
++++ The failure is intentional.
+
+FAIL at (t_core.clj:13)
+    Expected: "I am a test file fact"
+      Actual: 3
+Downloading: midje/midje/1.0.0alpha1/midje-1.0.0alpha1.pom from repository clojure at http://build.clojure.org/releases
+Unable to locate resource in repository
+[INFO] Unable to find resource 'midje:midje:pom:1.0.0alpha1' in repository clojure (http://build.clojure.org/releases)
+Downloading: midje/midje/1.0.0alpha1/midje-1.0.0alpha1.pom from repository clojure-snapshots at http://build.clojure.org/snapshots
+Unable to locate resource in repository
+[INFO] Unable to find resource 'midje:midje:pom:1.0.0alpha1' in repository clojure-snapshots (http://build.clojure.org/snapshots)
+Downloading: midje/midje/1.0.0alpha1/midje-1.0.0alpha1.pom from repository clojars at http://clojars.org/repo
+Unable to locate resource in repository
+[INFO] Unable to find resource 'midje:midje:pom:1.0.0alpha1' in repository clojars (http://clojars.org/repo)
+Downloading: midje/midje/1.0.0alpha1/midje-1.0.0alpha1.pom from repository maven at http://repo1.maven.org/maven2
+Unable to locate resource in repository
+[INFO] Unable to find resource 'midje:midje:pom:1.0.0alpha1' in repository maven (http://repo1.maven.org/maven2)
+Downloading: midje/midje/1.0.0alpha1/midje-1.0.0alpha1.pom from repository central at http://repo1.maven.org/maven2
+Unable to locate resource in repository
+[INFO] Unable to find resource 'midje:midje:pom:1.0.0alpha1' in repository central (http://repo1.maven.org/maven2)
+Downloading: midje/midje/1.0.0alpha1/midje-1.0.0alpha1.jar from repository clojure at http://build.clojure.org/releases
+Unable to locate resource in repository
+[INFO] Unable to find resource 'midje:midje:jar:1.0.0alpha1' in repository clojure (http://build.clojure.org/releases)
+Downloading: midje/midje/1.0.0alpha1/midje-1.0.0alpha1.jar from repository clojure-snapshots at http://build.clojure.org/snapshots
+Unable to locate resource in repository
+[INFO] Unable to find resource 'midje:midje:jar:1.0.0alpha1' in repository clojure-snapshots (http://build.clojure.org/snapshots)
+Downloading: midje/midje/1.0.0alpha1/midje-1.0.0alpha1.jar from repository clojars at http://clojars.org/repo
+Unable to locate resource in repository
+[INFO] Unable to find resource 'midje:midje:jar:1.0.0alpha1' in repository clojars (http://clojars.org/repo)
+Downloading: midje/midje/1.0.0alpha1/midje-1.0.0alpha1.jar from repository maven at http://repo1.maven.org/maven2
+Unable to locate resource in repository
+[INFO] Unable to find resource 'midje:midje:jar:1.0.0alpha1' in repository maven (http://repo1.maven.org/maven2)
+Downloading: midje/midje/1.0.0alpha1/midje-1.0.0alpha1.jar from repository central at http://repo1.maven.org/maven2
+Unable to locate resource in repository
+[INFO] Unable to find resource 'midje:midje:jar:1.0.0alpha1' in repository central (http://repo1.maven.org/maven2)
+
++++ The following shows how 'cake midje' checks facts in test files.
++++ The failure is intentional.
+
+FAIL at (t_core.clj:13)
+    Expected: "I am a test file fact"
+      Actual: 3
+
++++ The following shows how 'cake midje' checks facts in test files.
++++ The failure is intentional.
+
+FAIL at (t_core.clj:13)
+    Expected: "I am a test file fact"
+      Actual: 3
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=28970]>, :connections #<Ref@1b5e16d: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=18013]>, :connections #<Ref@1e2ee3f: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=31656]>, :connections #<Ref@1db1c5: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=36570]>, :connections #<Ref@aab87f: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=43202]>, :connections #<Ref@150818a: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=46244]>, :connections #<Ref@324b85: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=42692]>, :connections #<Ref@1d03e78: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=39487]>, :connections #<Ref@1a38598: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=40004]>, :connections #<Ref@1a65fca: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=35219]>, :connections #<Ref@1036b16: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=65497]>, :connections #<Ref@c9aff0: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=44795]>, :connections #<Ref@c1c7c4: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=64544]>, :connections #<Ref@96a680: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=19133]>, :connections #<Ref@1ac8210: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=28917]>, :connections #<Ref@37c7ee: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=21280]>, :connections #<Ref@1ad637e: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=58002]>, :connections #<Ref@1609af9: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=57611]>, :connections #<Ref@16e3762: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=53221]>, :connections #<Ref@147164d: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=24027]>, :connections #<Ref@f1dde3: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=57451]>, :connections #<Ref@d4c191: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=52771]>, :connections #<Ref@530461: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=39816]>, :connections #<Ref@b56efe: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=23788]>, :connections #<Ref@1c8dc5e: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=30433]>, :connections #<Ref@6e7a5b: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=32365]>, :connections #<Ref@13be416: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=65027]>, :connections #<Ref@37c7ee: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=17421]>, :connections #<Ref@8aeedc: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=24414]>, :connections #<Ref@1f49401: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=64203]>, :connections #<Ref@13596e0: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=37653]>, :connections #<Ref@1e352bf: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=52684]>, :connections #<Ref@126172f: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=34202]>, :connections #<Ref@10ad419: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=34493]>, :connections #<Ref@4de8d8: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=37466]>, :connections #<Ref@327cee: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=16765]>, :connections #<Ref@10c81a6: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=33160]>, :connections #<Ref@c1c7c4: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=48246]>, :connections #<Ref@ada4af: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=52731]>, :connections #<Ref@5aad2a: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=29205]>, :connections #<Ref@13ebc5c: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=24372]>, :connections #<Ref@9e58be: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=19124]>, :connections #<Ref@4120aa: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=20732]>, :connections #<Ref@eeb560: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=32617]>, :connections #<Ref@1da1f99: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=61644]>, :connections #<Ref@17a33f2: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=38808]>, :connections #<Ref@129aa21: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=26693]>, :connections #<Ref@1db2215: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=46986]>, :connections #<Ref@650016: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=22012]>, :connections #<Ref@129efd0: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=32545]>, :connections #<Ref@1d9d7be: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=64397]>, :connections #<Ref@131b810: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=16435]>, :connections #<Ref@1ae0436: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=19180]>, :connections #<Ref@1dc818d: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=23221]>, :connections #<Ref@1609af9: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=19008]>, :connections #<Ref@1b9bbe8: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=26068]>, :connections #<Ref@e1ccdf: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=46660]>, :connections #<Ref@1cb1278: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=35252]>, :connections #<Ref@11d6070: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=20815]>, :connections #<Ref@da1c9f: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=22868]>, :connections #<Ref@104c58e: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=52514]>, :connections #<Ref@1a79faa: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=21809]>, :connections #<Ref@a3aaf5: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=30405]>, :connections #<Ref@11570cd: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=53811]>, :connections #<Ref@71edc0: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=36049]>, :connections #<Ref@7c808d: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=56962]>, :connections #<Ref@cd8e77: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=47156]>, :connections #<Ref@119d975: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=42519]>, :connections #<Ref@12dbd1a: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=63110]>, :connections #<Ref@114d739: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=16672]>, :connections #<Ref@1ad637e: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=46974]>, :connections #<Ref@1ab2ddb: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=56281]>, :connections #<Ref@65b778: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=20415]>, :connections #<Ref@12f68b8: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=41118]>, :connections #<Ref@1c5d0e0: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=60972]>, :connections #<Ref@844689: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=39271]>, :connections #<Ref@1ceb670: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=43577]>, :connections #<Ref@1f17c9e: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=36406]>, :connections #<Ref@a877c0: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=35524]>, :connections #<Ref@1c882db: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=53434]>, :connections #<Ref@b29562: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=45339]>, :connections #<Ref@85b8d: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=61702]>, :connections #<Ref@15c90f4: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=62872]>, :connections #<Ref@178b9ce: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=47133]>, :connections #<Ref@6d70fc: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=26366]>, :connections #<Ref@6a086a: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=36678]>, :connections #<Ref@1882c1a: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=51124]>, :connections #<Ref@1c8dc5e: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=35258]>, :connections #<Ref@1ad637e: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=40287]>, :connections #<Ref@145240a: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=33043]>, :connections #<Ref@5aad2a: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=51943]>, :connections #<Ref@dddff: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=28282]>, :connections #<Ref@5ee6a6: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=52926]>, :connections #<Ref@1882c1a: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=16941]>, :connections #<Ref@c9aff0: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=42540]>, :connections #<Ref@11cbec9: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=26817]>, :connections #<Ref@dad6d0: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=26165]>, :connections #<Ref@c069ec: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=48170]>, :connections #<Ref@1882c1a: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=43987]>, :connections #<Ref@1db2215: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=47171]>, :connections #<Ref@cfed14: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=41492]>, :connections #<Ref@71edc0: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=28093]>, :connections #<Ref@126172f: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=23407]>, :connections #<Ref@10bfedd: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=26976]>, :connections #<Ref@142db11: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=31831]>, :connections #<Ref@b54dba: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=26262]>, :connections #<Ref@11ef9f6: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=45860]>, :connections #<Ref@1ee8c1: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=39483]>, :connections #<Ref@5d1647: #{#<Socket Socket[addr=/127.0.0.1,port=54839,localport=39483]>}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=41935]>, :connections #<Ref@13ef605: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=38935]>, :connections #<Ref@e7a94c: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=46019]>, :connections #<Ref@661a11: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=44193]>, :connections #<Ref@12b523c: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=22494]>, :connections #<Ref@53d34c: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=36394]>, :connections #<Ref@5a12f5: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=49786]>, :connections #<Ref@cfe790: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=27143]>, :connections #<Ref@149959a: #{}>}
+[INFO] artifact org.clojure:clojure: checking for updates from clojure
+[INFO] artifact org.clojure:clojure: checking for updates from clojure-snapshots
+[INFO] artifact org.clojure:clojure: checking for updates from maven
+[INFO] snapshot midje:midje:1.3.2-SNAPSHOT: checking for updates from clojure
+[INFO] snapshot midje:midje:1.3.2-SNAPSHOT: checking for updates from clojure-snapshots
+[INFO] snapshot midje:midje:1.3.2-SNAPSHOT: checking for updates from clojars
+[INFO] snapshot midje:midje:1.3.2-SNAPSHOT: checking for updates from maven
+Downloading: midje/midje/1.3.2-SNAPSHOT/midje-1.3.2-20120130.001801-2.pom from repository clojars at http://clojars.org/repo
+Transferring 3K from clojars
+Downloading: midje/midje/1.3.2-SNAPSHOT/midje-1.3.2-20120130.001801-2.jar from repository clojars at http://clojars.org/repo
+Transferring 54K from clojars
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=56633]>, :connections #<Ref@3c0965: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=43321]>, :connections #<Ref@1523d40: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=29624]>, :connections #<Ref@1b6c732: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=36358]>, :connections #<Ref@5f6ed4: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=51425]>, :connections #<Ref@c5dbb: #{}>}
+{:server-socket #<ServerSocket ServerSocket[addr=localhost/127.0.0.1,port=0,localport=27775]>, :connections #<Ref@54864c: #{}>}
