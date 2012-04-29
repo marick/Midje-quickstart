@@ -28,6 +28,6 @@ Getting Started
 The Tutorials
 ----------
 
-1.  (The
-     basics)[https://github.com/marick/Midje-quickstart/wiki/Checkers
+1.  [The
+     basics](https://github.com/marick/Midje-quickstart/wiki/Checkers)
      of using Midje to test your projects. 
