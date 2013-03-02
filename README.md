@@ -1,14 +1,6 @@
 Midje Quickstart
 ================
 
-Annotated (tutorialized) projects to help you get started
-with [Midje](https://github.com/marick/Midje).
-
-The Tutorials
-----------
-
-1.  [Installing Leiningen and its Midje plugin](https://github.com/marick/Midje-quickstart/wiki/Getting-Started).
-
-1.  [The
-     basics](https://github.com/marick/Midje-quickstart/wiki/Checkers)
-     of using Midje to test your projects. 
+This has been replaced by [a tutorial
+introduction](https://github.com/marick/Midje/wiki/A-tutorial-introduction)
+and [a tutorial introduction for clojure.test users](https://github.com/marick/Midje/wiki/A-tutorial-introduction-for-Clojure.test-users).
